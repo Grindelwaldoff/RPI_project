@@ -1,0 +1,10 @@
+aiorun==2024.5.1
+APScheduler==3.10.4
+future==1.0.0
+peewee==3.17.5
+pefile==2021.9.3
+psutil==5.9.8
+pytz==2024.1
+six==1.16.0
+tzlocal==5.2
+websockets==12.0
